@@ -43,6 +43,5 @@
 		* `git commit -m '[your commit message here]'`
 		* `git push`
 	* Please submit the link to your forked repo Exercise homework file in the HW Tracker Sheet next to your name.  
-		* [Thursday's Homework Submission Sheet](https://docs.google.com/spreadsheets/d/1zXs0AZorLKglwBCYmZ0N6SZyfTuSkqlLzq6XxwWEjyY/edit?usp=sharing) 
-		* [Friday's Homework Submission Sheet](https://docs.google.com/spreadsheets/d/136MdqNnMnl4KAX6X0ZCmLpTkTPuuXxoQr-7HoW6HvyA/edit?usp=sharing)
-
+* [Thursday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/1AZtto_TvDB3P68p-uC7DGIHQrwLEAv0cK-rXlD61aP0/edit#gid=0)
+* [Friday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/1NyZKCvHBJOTkCq9Y_YVnKi9fmuXiokWb9VRPQ3HuviI/edit?usp=sharing)
