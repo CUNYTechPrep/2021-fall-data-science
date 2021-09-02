@@ -2,12 +2,12 @@
 2021-Fall-Data-Science
 
 ## Zoom Links
-* [Thursday's 6:00-8:30 Class](https://us02web.zoom.us/j/89733575001?pwd=bU5VU0s2cE1CVndvbUVDOHd2UG1YUT09)
+* [Thursday's 6:30-9:00 Class](https://us02web.zoom.us/j/89733575001?pwd=bU5VU0s2cE1CVndvbUVDOHd2UG1YUT09)
 * [Friday's 3:00-5:30 Class]( https://us02web.zoom.us/j/89417050425?pwd=Nlk0NWdSVk96ZmppRG9vZjd2ZmhBZz09)
 
 ## Office Hours
 * Instructor Zack
-	* Thursday's 5:00-6:00
+	* Thursday's 5:30-6:30
 	* Friday's 2:00-3:00
 * TA Julia
 	* TBD
@@ -25,7 +25,7 @@
 
 ## Updating your fork
 * Do this __first step only once__ to link your fork with the main repo:  
-	* `git remote add upstream https://github.com/CUNYTechPrep/2021-spring-data-science.git`
+	* `git remote add upstream https://github.com/CUNYTechPrep/2021-fall-data-science.git`
 * Then __every week__, run these commands below to get the new files.
 	1. `git fetch upstream`
 	2. `git merge upstream/master`
