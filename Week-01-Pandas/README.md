@@ -36,7 +36,7 @@
 		* `git push`
 
 
-5. Begin homework exercise in breakout rooms.
+5.  In your terminal, navigate to the Week-01-Pandas folder and type in `jupter notebook` to launch a jupyter notebook. Begin homework exercise in breakout rooms.
 	* Do your work in the `Exercise.ipynb`.
 	* Once finished, push your changes to your fork.
 		* `git add *`
