@@ -32,21 +32,21 @@
 
 
 ## Course Overview
-* Week 01 [9/2 - 9/3]:  Introduction to Data Science & working with Data in Pandas
-* Week XX [9/9 - 9/10]: No Class
-* Week 02:  Exploratory Data Analysis and Visualizations
-* Week 03:  Data Visualization using Plotly
-* Week 04:  Introduction to Machine Learning & Classification
-* Week 05:  Decision Trees and Random Forest Classifiers
-* Week 06:  Linear Regression / Regressors  
-* Week 07:  Natural Language Processing
-* Week 08:  Image Classifiers
-* Week 09:  Neural Networks
-* Week 10:  AB Testing
-* Week 11:  Flask & Projects Week 1
-* Week 12:  Projects Week 2
-* Week 13:  Projects Week 3 (MVP In Class Presentations)
-* Week 14: No class just Virtual Dress Rehearsal.
-* __Week 15: Demo Night__
+* Week 01 [9/02 - 9/3]:  Introduction to Data Science & working with Data in Pandas
+* Week XX [9/09 - 9/10]: No Class
+* Week 02 [9/16 - 9/17]:  Exploratory Data Analysis and Visualizations
+* Week 03 [9/23 - 9/24]:  Data Visualization using Plotly
+* Week 04 [9/30 - 10/1]:  Introduction to Machine Learning & Classification
+* Week 05 [10/07 - 10/08]:  Decision Trees and Random Forest Classifiers
+* Week 06 [10/14 - 10/15]:  Linear Regression / Regressors  
+* Week 07 [10/21 - 10/22]:  Natural Language Processing
+* Week 08 [10/28 - 10/29]:  Image Classifiers
+* Week 09 [11/04 - 11/05]:  Neural Networks
+* Week 10 [11/11 - 11/12]:  AB Testing
+* Week 11 [11/18 - 11/19]:  Flask & Projects Week 1
+* Week XX [11/25 - 11/26]: NO CLASS
+* Week 12 [12/02 - 12/03]:  Projects Week 2
+* Week 13 [12/09 - 12/10]:  Projects Week 3 (MVP In Class Presentations)
+* Week 14 [12/14]: Tenatively Demo Night. 
 
 _Note, coursework and lessons may be subject to change based on class needs._
