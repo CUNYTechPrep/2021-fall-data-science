@@ -7,13 +7,13 @@
 
 ## Office Hours
 * Instructor Zack
-	* Thursday's 5:30-6:30
-	* Friday's   2:00-3:00
+	* Thursday's	5:30-6:30
+	* Friday's		2:00-3:00
 * TA Julia
-	* Tuesday's 5:00-7:00
+	* Tuesday's		5:00-7:00
 * TA Steve
-	* Tuesday's   5:00-6:00
-	* Wednesday's 5:00-6:00
+	* Tuesday's		5:00-6:00
+	* Wednesday's	5:00-6:00
 
 ## Lecture Recordings
 * [Link To Lecture Recordings](https://docs.google.com/document/d/1GHjGsqNhzEGL1xAxilCX-wFNUdnZwcBD58_zBQKkgu4/edit?usp=sharing)
