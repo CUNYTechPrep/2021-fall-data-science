@@ -1,5 +1,5 @@
 # 2021-fall-data-science
-2021-Fall-Data-Science
+2021-fall-data-science
 
 ## Zoom Links
 * [Thursday's 6:30-9:00 Class](https://us02web.zoom.us/j/89733575001?pwd=bU5VU0s2cE1CVndvbUVDOHd2UG1YUT09)
@@ -8,11 +8,12 @@
 ## Office Hours
 * Instructor Zack
 	* Thursday's 5:30-6:30
-	* Friday's 2:00-3:00
+	* Friday's   2:00-3:00
 * TA Julia
-	* TBD
+	* Tuesday's 5:00-7:00
 * TA Steve
-	* TBD
+	* Tuesday's   5:00-6:00
+	* Wednesday's 5:00-6:00
 
 ## Lecture Recordings
 * [Link To Lecture Recordings](https://docs.google.com/document/d/1GHjGsqNhzEGL1xAxilCX-wFNUdnZwcBD58_zBQKkgu4/edit?usp=sharing)
