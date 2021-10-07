@@ -48,6 +48,6 @@
 * Week XX [11/25 - 11/26]: NO CLASS
 * Week 12 [12/02 - 12/03]:  Projects Week 2
 * Week 13 [12/09 - 12/10]:  Projects Week 3 (MVP In Class Presentations)
-* Week 14 [12/14]: Tenatively Demo Night. 
+* Week 14 [12/14]: __!!Demo Night 5:30 - 7:00!!__
 
 _Note, coursework and lessons may be subject to change based on class needs._
