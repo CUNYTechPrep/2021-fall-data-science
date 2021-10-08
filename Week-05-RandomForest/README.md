@@ -23,7 +23,7 @@
 
 2. Form teams and fill out this [project design document](https://docs.google.com/document/d/1Q3foIsHMbqXkHaFyoER-OBDhC3l7THJOJqChRxRTEJ4/edit?usp=sharing) before next class. 
 
-3. Fill out [this google form](https://forms.gle/M1Y44NLSMyrECM1RA) for your team (one per team). 
+3. Fill out [this google form](https://forms.gle/tyqFLHwMJHG3xho49) for your team (one per team). 
 
 
 
