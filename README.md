@@ -40,8 +40,8 @@
 * Week 04 [09/30 - 10/01]:  Linear Regression / Regressors
 * Week 05 [10/07 - 10/08]:  Decision Trees and Random Forest Classifiers
 * Week 06 [10/14 - 10/15]:  Natural Language Processing
-* Week 07 [10/21 - 10/22]:  Data Visualization using Plotly
-* Week 08 [10/28 - 10/29]:  Image Classifiers
+* Week 07 [10/21 - 10/22]:  Image Classifiers
+* Week 08 [10/28 - 10/29]:  Data Visualization using Plotly
 * Week 09 [11/04 - 11/05]:  Neural Networks
 * Week 10 [11/11 - 11/12]:  AB Testing
 * Week 11 [11/18 - 11/19]:  Flask & Projects Week 1
