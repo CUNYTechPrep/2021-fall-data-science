@@ -1,5 +1,5 @@
 # 2021-fall-data-science
-2021-fall-data-science
+Cuny Tech Prep Fall 2021 Data Science Repo
 
 ## Zoom Links
 * [Thursday's 6:30-9:00 Class](https://us02web.zoom.us/j/89733575001?pwd=bU5VU0s2cE1CVndvbUVDOHd2UG1YUT09)
@@ -41,10 +41,13 @@
 * Week 05 [10/07 - 10/08]:  Decision Trees and Random Forest Classifiers
 * Week 06 [10/14 - 10/15]:  Natural Language Processing
 * Week 07 [10/21 - 10/22]:  Image Classifiers
-* Week 08 [10/28 - 10/29]:  Data Visualization using Plotly
-* Week 09 [11/04 - 11/05]:  Neural Networks
-* Week 10 [11/11 - 11/12]:  AB Testing
-* Week 11 [11/18 - 11/19]:  Flask & Projects Week 1
+* Week 08 [10/28 - Thursday]:  AB Testing
+* Week 08 [10/29 - Friday]:  Neural Networks
+* Week 09 [11/04 - Thursday]:  Neural Networks
+* Week 09 [11/05 - Friday]:  Flask Web App
+* Week 10 [11/11 - Thursday]:  Flask Web App
+* Week 10 [11/12 - Friday]:  AB Testing
+* Week 11 [11/18 - 11/19]:  Data Visualization
 * Week XX [11/25 - 11/26]:  NO CLASS
 * Week 12 [12/02 - 12/03]:  Projects Week 2
 * Week 13 [12/09 - 12/10]:  Projects Week 3 (MVP In Class Presentations)
