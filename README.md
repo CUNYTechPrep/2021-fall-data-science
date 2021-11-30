@@ -50,6 +50,7 @@ Cuny Tech Prep Fall 2021 Data Science Repo
 * Week 11 [11/18 - 11/19]:  Data Visualization
 * Week XX [11/25 - 11/26]:  NO CLASS
 * Week 12 [12/02 - 12/03]:  Projects Week 2
+* Week 13 [12/06]:  __DRESS REHEARSAL__ 5:30 - 7:00pm
 * Week 13 [12/09 - 12/10]:  Projects Week 3 (MVP In Class Presentations)
 * Week 14 [12/14]: __!!Demo Night 5:30 - 7:00!!__
 
